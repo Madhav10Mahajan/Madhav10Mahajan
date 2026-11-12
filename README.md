@@ -1,6 +1,6 @@
 # Hi, I'm Madhav 👋
 
-**Software engineer moving into quantitative finance.** I build low-latency C++ systems and data-driven ML features, and I spend my spare time on quant projects: market microstructure, trading-strategy research and risk models. Currently applying to **MFE / MSCF programs** for the upcoming cycle.
+**Software engineer moving into quantitative finance.** I build low-latency C++ systems and data-driven ML features, and I spend my spare time on quant projects: market microstructure, trading-strategy research and risk models.
 
 - 🧑‍💻 **Member of Technical Staff 2 @ Adobe**: C++ backend and ML-driven personalization for Adobe Acrobat's AI study platform
 - 🎓 **B.Tech, Mathematics & Computing, Delhi Technological University** (CGPA 8.88/10)
